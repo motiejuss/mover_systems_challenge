@@ -4,6 +4,8 @@
 
 This is a fullstack delivery route optimization application built as part of the Mover Systems engineering challenge. The system allows users to input multiple delivery addresses and calculates the optimal route using various algorithms including the Nearest Neighbor Algorithm.
 
+![Screenshot](screenshot.png)
+
 The application consists of:
 
 - **Backend API** (.NET 9.0): Integrates with Google Routes Directions API to calculate routes and implements route optimization algorithms
