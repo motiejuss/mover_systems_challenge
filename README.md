@@ -53,8 +53,8 @@ Before running this application, ensure you have the following installed:
    ```
 
 4. **Configure Google Maps API Key:**
-   - Update `api/appsettings.json` with your Google Maps API key or use one provided
-   - Create `ui/.env` file based on `ui/.env.example` and add your Google Maps API key or use one from example
+   - Create `api/appsettings.json` file based on `appsettings.json.example` with your Google Maps API key or use one provided
+   - Create `ui/.env` file based on `ui/.env.example` and add your Google Maps API key or use one provided
 
 ## Running the API and UI
 
