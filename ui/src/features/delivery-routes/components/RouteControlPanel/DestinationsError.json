@@ -1,0 +1,18 @@
+{
+  "destinations": [
+    {
+      "id": "a7c2e4f8-9b1d-4e3a-8c5f-2d6b9a1e4f7c",
+      "address": "Københavnsvej 106, 4600 Køge, Denmark"
+    },
+    {
+      "id": "b3f5d1a8-7e2c-4b9d-a1f6-8c3e5b7d9a2f",
+      "address": "Himmelev Bygade 53, 4000 Roskilde, Denmark",
+      "lat": -1,
+      "lng": -3
+    },
+    {
+      "lat": 55.93206,
+      "lng": 12.3023
+    }
+  ]
+}

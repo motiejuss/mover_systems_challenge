@@ -1,0 +1,154 @@
+{
+  "destinations": [
+    {
+      "id": "a1b2c3d4-e5f6-4a7b-8c9d-0e1f2a3b4c5d",
+      "address": "Vestergade 49, 8000 Aarhus, Denmark",
+      "lat": 56.15787,
+      "lng": 10.20166
+    },
+    {
+      "id": "f6e5d4c3-b2a1-4f7e-8d9c-5d4c3b2a1f0e",
+      "address": "Vesterbro 63, 9000 Aalborg, Denmark",
+      "lat": 57.04751,
+      "lng": 9.91494
+    },
+    {
+      "id": "1a2b3c4d-5e6f-4789-a1b2-c3d4e5f6a7b8",
+      "address": "Vestergade 25, 5000 Odense, Denmark",
+      "lat": 55.3959,
+      "lng": 10.38421
+    },
+    {
+      "id": "8b7a6f5e-4d3c-4b2a-1987-f6e5d4c3b2a1",
+      "address": "Nyhavn 17, 1051 København, Denmark",
+      "lat": 55.67931,
+      "lng": 12.59012
+    },
+    {
+      "id": "c1d2e3f4-a5b6-4c7d-8e9f-0a1b2c3d4e5f",
+      "address": "Torvegade 24, 6700 Esbjerg, Denmark",
+      "lat": 55.46654,
+      "lng": 8.45063
+    },
+    {
+      "id": "f0e9d8c7-b6a5-4f4e-3d2c-1b0a9f8e7d6c",
+      "address": "Houmeden 10, 8900 Randers, Denmark",
+      "lat": 56.46083,
+      "lng": 10.03577
+    },
+    {
+      "id": "5a4b3c2d-1f0e-4987-6a5b-4c3d2e1f0a9b",
+      "address": "Jernbanegade 2, 6000 Kolding, Denmark",
+      "lat": 55.49011,
+      "lng": 9.47169
+    },
+    {
+      "id": "b9c8d7e6-f5a4-4b3c-2d1f-0e9d8c7b6a5b",
+      "address": "Torvegade 30, 7100 Vejle, Denmark",
+      "lat": 55.70889,
+      "lng": 9.53232
+    },
+    {
+      "id": "2f1e0d9c-8b7a-46f5-e4d3-c2b1a0f9e8d7",
+      "address": "Bredgade 20, 7400 Herning, Denmark",
+      "lat": 56.13476,
+      "lng": 8.97545
+    },
+    {
+      "id": "7d6c5b4a-3f2e-41d0-9c8b-7a6f5e4d3c2b",
+      "address": "Algade 12, 4000 Roskilde, Denmark",
+      "lat": 55.64166,
+      "lng": 12.08051
+    },
+    {
+      "id": "e8d7c6b5-a4f3-4e2d-1c0b-9a8f7e6d5c4b",
+      "address": "Danmarksgade 11, 7500 Holstebro, Denmark",
+      "lat": 56.36154,
+      "lng": 8.6186
+    },
+    {
+      "id": "4b3c2d1f-0e9d-48c7-b6a5-f4e3d2c1b0a9",
+      "address": "Søndergade 1, 8600 Silkeborg, Denmark",
+      "lat": 56.1687,
+      "lng": 9.54922
+    },
+    {
+      "id": "9a8f7e6d-5c4b-43d2-e1f0-a9b8c7d6e5f4",
+      "address": "Kongensgade 34, 3550 Slangerup, Denmark",
+      "lat": 55.84542,
+      "lng": 12.17061
+    },
+    {
+      "id": "f4e3d2c1-b0a9-48f7-e6d5-c4b3a2f1e0d9",
+      "address": "Gerritsgade 29, 5700 Svendborg, Denmark",
+      "lat": 55.05942,
+      "lng": 10.60927
+    },
+    {
+      "id": "a9b8c7d6-e5f4-43d2-c1b0-f9e8d7c6b5a4",
+      "address": "Jernbanegade 8, 4800 Nykøbing Falster, Denmark",
+      "lat": 54.76756,
+      "lng": 11.87033
+    },
+    {
+      "id": "1f0e9d8c-7b6a-45f4-e3d2-c1b0a9f8e7d6",
+      "address": "Store Torv 5, 3700 Rønne, Denmark",
+      "lat": 55.09919,
+      "lng": 14.69781
+    },
+    {
+      "id": "d6e5f4c3-b2a1-4f0e-9d8c-7b6a5f4e3d2c",
+      "address": "Nørregade 1, 6200 Aabenraa, Denmark",
+      "lat": 55.04491,
+      "lng": 9.42013
+    },
+    {
+      "id": "c7b6a5f4-e3d2-4c1b-0a9f-8e7d6c5b4a3f",
+      "address": "Søndergade 40, 6100 Haderslev, Denmark",
+      "lat": 55.25089,
+      "lng": 9.49008
+    },
+    {
+      "id": "3f2e1d0c-9b8a-47f6-e5d4-c3b2a1f0e9d8",
+      "address": "Ramsherred 27, 6400 Sønderborg, Denmark",
+      "lat": 54.90847,
+      "lng": 9.78912
+    },
+    {
+      "id": "8e7d6c5b-4a3f-42e1-d0c9-b8a7f6e5d4c3",
+      "address": "Algade 1, 9500 Hobro, Denmark",
+      "lat": 56.63935,
+      "lng": 9.79152
+    },
+    {
+      "id": "c3b2a1f0-e9d8-47f6-c5b4-a3f2e1d0c9b8",
+      "address": "Adelgade 99, 8660 Skanderborg, Denmark",
+      "lat": 56.03362,
+      "lng": 9.91928
+    },
+    {
+      "id": "a1f0e9d8-c7b6-4a5f-4e3d-2c1b0a9f8e7d",
+      "address": "Søndergade 14, 4600 Køge, Denmark",
+      "lat": 55.45601,
+      "lng": 12.18187
+    },
+    {
+      "id": "f8e7d6c5-b4a3-4f2e-1d0c-9b8a7f6e5d4c",
+      "address": "Jernbanegade 4, 4220 Korsør, Denmark",
+      "lat": 55.32832,
+      "lng": 11.14152
+    },
+    {
+      "id": "4c3b2a1f-0e9d-48c7-b6a5-f4e3d2c1b0a9",
+      "address": "Bramstræde 2, 3000 Helsingør, Denmark",
+      "lat": 56.03504,
+      "lng": 12.61391
+    },
+    {
+      "id": "9b8a7f6e-5d4c-43b2-a1f0-e9d8c7b6a5f4",
+      "address": "Torvet 6, 7620 Lemvig, Denmark",
+      "lat": 56.55106,
+      "lng": 8.30931
+    }
+  ]
+}

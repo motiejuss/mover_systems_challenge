@@ -1,0 +1,90 @@
+@api_HostAddress = http://localhost:5046
+
+### Test with addresses (default Nearest Neighbor algorithm)
+POST {{api_HostAddress}}/api/delivery-routes
+Content-Type: application/json
+
+{
+  "origins": [
+    {
+      "address": "1600 Amphitheatre Parkway, Mountain View, CA"
+    },
+    {
+      "address": "450 Serra Mall, Stanford, CA"
+    }
+  ],
+  "destinations": [
+    {
+      "address": "1 Hacker Way, Menlo Park, CA"
+    },
+    {
+      "address": "1 Market Street, San Francisco, CA"
+    }
+  ]
+}
+
+### Test with addresses using A* algorithm
+POST {{api_HostAddress}}/api/delivery-routes
+Content-Type: application/json
+
+{
+  "origins": [
+    {
+      "address": "1600 Amphitheatre Parkway, Mountain View, CA"
+    },
+    {
+      "address": "450 Serra Mall, Stanford, CA"
+    }
+  ],
+  "destinations": [
+    {
+      "address": "1 Hacker Way, Menlo Park, CA"
+    },
+    {
+      "address": "1 Market Street, San Francisco, CA"
+    }
+  ],
+  "algorithm": "AStar"
+}
+
+### Test with place IDs
+POST {{api_HostAddress}}/api/delivery-routes
+Content-Type: application/json
+
+{
+  "origins": [
+    {
+      "placeId": "ChIJj61dQgK6j4AR4GeTYWZsKWw"
+    }
+  ],
+  "destinations": [
+    {
+      "placeId": "ChIJVVVVVYx3j4AReVr_AJqXR0E"
+    }
+  ]
+}
+
+### Test with mixed addresses and place IDs
+POST {{api_HostAddress}}/api/delivery-routes
+Content-Type: application/json
+
+{
+  "origins": [
+    {
+      "address": "1600 Amphitheatre Parkway, Mountain View, CA"
+    },
+    {
+      "placeId": "ChIJj61dQgK6j4AR4GeTYWZsKWw"
+    }
+  ],
+  "destinations": [
+    {
+      "placeId": "ChIJVVVVVYx3j4AReVr_AJqXR0E"
+    },
+    {
+      "address": "1 Market Street, San Francisco, CA"
+    }
+  ]
+}
+
+###
